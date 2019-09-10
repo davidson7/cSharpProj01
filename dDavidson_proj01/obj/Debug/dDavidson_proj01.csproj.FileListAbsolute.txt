@@ -1,0 +1,7 @@
+C:\Users\dbswi\source\repos\dDavidson_proj01\dDavidson_proj01\bin\Debug\dDavidson_proj01.exe.config
+C:\Users\dbswi\source\repos\dDavidson_proj01\dDavidson_proj01\bin\Debug\dDavidson_proj01.exe
+C:\Users\dbswi\source\repos\dDavidson_proj01\dDavidson_proj01\bin\Debug\dDavidson_proj01.pdb
+C:\Users\dbswi\source\repos\dDavidson_proj01\dDavidson_proj01\obj\Debug\dDavidson_proj01.csprojAssemblyReference.cache
+C:\Users\dbswi\source\repos\dDavidson_proj01\dDavidson_proj01\obj\Debug\dDavidson_proj01.csproj.CoreCompileInputs.cache
+C:\Users\dbswi\source\repos\dDavidson_proj01\dDavidson_proj01\obj\Debug\dDavidson_proj01.exe
+C:\Users\dbswi\source\repos\dDavidson_proj01\dDavidson_proj01\obj\Debug\dDavidson_proj01.pdb
